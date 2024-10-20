@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero/Hero";
+import Menus from "./components/Menus/Menus";
 
 const App = () => {
   return (
@@ -7,6 +8,7 @@ const App = () => {
       <main className="overflow-x-hidden">
         <Navbar />
         <Hero />
+        <Menus />
       </main>
     </>
   );
