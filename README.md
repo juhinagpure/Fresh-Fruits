@@ -1,4 +1,5 @@
 🍏 Fresh Fruits Store 🍊
+
 Welcome to Fresh Fruits Store, where every bite is a delight! Dive into our colorful world of fresh fruits and enjoy a delightful shopping experience. 🍓✨
 
 🌟 Features
