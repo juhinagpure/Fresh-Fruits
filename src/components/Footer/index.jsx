@@ -2,7 +2,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLeaf } from "react-icons/fa";
 import { motion } from "framer-motion";
 const index = () => {
   return (
-    <footer className="bg-primary/10 text-white py-12">
+    <footer className="bg-primary/10 text-white py-12 mt-12">
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}

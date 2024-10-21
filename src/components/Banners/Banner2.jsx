@@ -60,7 +60,7 @@ const Banner2 = () => {
             viewport={{ once: true }}
             src={Bannerpng}
             alt=""
-            className="w-[300px] md:max-w-[400px] h-full object-cover drop-shadow"
+            className="w-[350px] md:max-w-[500px] h-full object-cover drop-shadow"
           />
         </div>
       </div>

@@ -11,7 +11,7 @@ const bgStyle = {
 };
 const Banner3 = () => {
   return (
-    <section className="">
+    <section className="container mb-12">
       <div
         style={bgStyle}
         className="container grid grid-cols-1 md:grid-cols-2 space-y-6 md:space-0 py-14 rounded-3xl"
@@ -43,7 +43,7 @@ const Banner3 = () => {
 
             {/* {button section} */}
             <motion.div
-              variants={FadeLeft(1.5)}
+              variants={FadeLeft(0.9)}
               initial="hidden"
               animate="visible"
               className="flex justify-center md:justify-start"
